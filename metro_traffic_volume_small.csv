@@ -1,0 +1,101 @@
+traffic_volume,holiday,temp,rain_1h,snow_1h,clouds_all,weather_main,weather_description,date_time
+5545,None,288.28,0,0,40,Clouds,scattered clouds,02-10-2012 09:00
+4516,None,289.36,0,0,75,Clouds,broken clouds,02-10-2012 10:00
+4767,None,289.58,0,0,90,Clouds,overcast clouds,02-10-2012 11:00
+5026,None,290.13,0,0,90,Clouds,overcast clouds,02-10-2012 12:00
+4918,None,291.14,0,0,75,Clouds,broken clouds,02-10-2012 13:00
+5181,None,291.72,0,0,1,Clear,sky is clear,02-10-2012 14:00
+5584,None,293.17,0,0,1,Clear,sky is clear,02-10-2012 15:00
+6015,None,293.86,0,0,1,Clear,sky is clear,02-10-2012 16:00
+5791,None,294.14,0,0,20,Clouds,few clouds,02-10-2012 17:00
+4770,None,293.1,0,0,20,Clouds,few clouds,02-10-2012 18:00
+3539,None,290.97,0,0,20,Clouds,few clouds,02-10-2012 19:00
+2784,None,289.38,0,0,1,Clear,sky is clear,02-10-2012 20:00
+2361,None,288.61,0,0,1,Clear,sky is clear,02-10-2012 21:00
+1529,None,287.16,0,0,1,Clear,sky is clear,02-10-2012 22:00
+963,None,285.45,0,0,1,Clear,sky is clear,02-10-2012 23:00
+506,None,284.63,0,0,1,Clear,sky is clear,03-10-2012 00:00
+321,None,283.47,0,0,1,Clear,sky is clear,03-10-2012 01:00
+273,None,281.18,0,0,1,Clear,sky is clear,03-10-2012 02:00
+367,None,281.09,0,0,1,Clear,sky is clear,03-10-2012 03:00
+814,None,279.53,0,0,1,Clear,sky is clear,03-10-2012 04:00
+2718,None,278.62,0,0,1,Clear,sky is clear,03-10-2012 05:00
+5673,None,278.23,0,0,1,Clear,sky is clear,03-10-2012 06:00
+6511,None,278.12,0,0,1,Clear,sky is clear,03-10-2012 08:00
+5471,None,282.48,0,0,1,Clear,sky is clear,03-10-2012 09:00
+5097,None,291.97,0,0,1,Clear,sky is clear,03-10-2012 12:00
+4887,None,293.23,0,0,1,Clear,sky is clear,03-10-2012 13:00
+5337,None,294.31,0,0,1,Clear,sky is clear,03-10-2012 14:00
+5692,None,295.17,0,0,1,Clear,sky is clear,03-10-2012 15:00
+6137,None,295.13,0,0,1,Clear,sky is clear,03-10-2012 16:00
+4623,None,293.66,0,0,20,Clouds,few clouds,03-10-2012 18:00
+3591,None,290.65,0,0,20,Clouds,few clouds,03-10-2012 19:00
+2898,None,288.19,0,0,20,Clouds,few clouds,03-10-2012 20:00
+2637,None,287.1,0,0,1,Clear,sky is clear,03-10-2012 21:00
+1777,None,286.25,0,0,1,Clear,sky is clear,03-10-2012 22:00
+1015,None,285.26,0,0,1,Clear,sky is clear,03-10-2012 23:00
+598,None,284.55,0,0,1,Clear,sky is clear,04-10-2012 00:00
+369,None,283.47,0,0,1,Clear,sky is clear,04-10-2012 01:00
+312,None,283.17,0,0,1,Clear,sky is clear,04-10-2012 02:00
+367,None,282.04,0,0,1,Clear,sky is clear,04-10-2012 03:00
+835,None,281.69,0,0,1,Clear,sky is clear,04-10-2012 04:00
+2726,None,281.32,0,0,1,Clear,sky is clear,04-10-2012 05:00
+5689,None,280.74,0,0,1,Clear,sky is clear,04-10-2012 06:00
+6990,None,280.57,0,0,1,Clear,sky is clear,04-10-2012 07:00
+5985,None,281.86,0,0,1,Clear,sky is clear,04-10-2012 08:00
+5309,None,284.98,0,0,1,Clear,sky is clear,04-10-2012 09:00
+4603,None,289.18,0,0,1,Clear,sky is clear,04-10-2012 10:00
+4884,None,291.55,0,0,1,Clear,sky is clear,04-10-2012 11:00
+5104,None,294.97,0,0,1,Clear,sky is clear,04-10-2012 12:00
+5178,None,296.38,0,0,1,Clear,sky is clear,04-10-2012 13:00
+5501,None,297.32,0,0,1,Clear,sky is clear,04-10-2012 14:00
+5713,None,298.17,0,0,1,Clear,sky is clear,04-10-2012 15:00
+6292,None,298.06,0,0,20,Clouds,few clouds,04-10-2012 16:00
+6057,None,297.67,0,0,20,Clouds,few clouds,04-10-2012 17:00
+4907,None,296.36,0,0,40,Clouds,scattered clouds,04-10-2012 18:00
+3503,None,293.85,0,0,40,Clouds,scattered clouds,04-10-2012 19:00
+3037,None,292.43,0,0,40,Clouds,scattered clouds,04-10-2012 20:00
+2822,None,291.77,0,0,75,Clouds,broken clouds,04-10-2012 21:00
+1992,None,291.36,0,0,75,Clouds,broken clouds,04-10-2012 22:00
+1166,None,291.12,0,0,75,Clouds,broken clouds,04-10-2012 23:00
+627,None,290.63,0,0,75,Clouds,broken clouds,05-10-2012 00:00
+388,None,290.46,0,0,40,Clouds,scattered clouds,05-10-2012 01:00
+368,None,289.26,0,0,0,Clear,sky is clear,05-10-2012 03:00
+2489,None,283.21,0,0,75,Clouds,broken clouds,05-10-2012 05:00
+5537,None,282.24,0,0,90,Clouds,overcast clouds,05-10-2012 06:00
+6628,None,281.69,0,0,90,Clouds,overcast clouds,05-10-2012 07:00
+5534,None,280.57,0,0,90,Clouds,overcast clouds,05-10-2012 08:00
+5403,None,280.02,0,0,75,Clouds,broken clouds,05-10-2012 09:00
+4770,None,280.11,0,0,75,Clouds,broken clouds,05-10-2012 10:00
+5217,None,280,0,0,90,Clouds,overcast clouds,05-10-2012 11:00
+5870,None,280.53,0,0,90,Clouds,overcast clouds,05-10-2012 12:00
+5967,None,281.43,0,0,75,Clouds,broken clouds,05-10-2012 13:00
+6108,None,281.78,0,0,90,Clouds,overcast clouds,05-10-2012 14:00
+6128,None,281.91,0,0,90,Clouds,overcast clouds,05-10-2012 15:00
+6069,None,281.73,0,0,90,Clouds,overcast clouds,05-10-2012 16:00
+6169,None,281.42,0,0,90,Clouds,overcast clouds,05-10-2012 17:00
+5384,None,280.87,0,0,90,Clouds,overcast clouds,05-10-2012 18:00
+4063,None,280.15,0,0,90,Clouds,overcast clouds,05-10-2012 19:00
+3364,None,279.78,0,0,90,Clouds,overcast clouds,05-10-2012 20:00
+2971,None,279.65,0,0,75,Clouds,broken clouds,05-10-2012 21:00
+2450,None,279.22,0,0,40,Clouds,scattered clouds,05-10-2012 22:00
+1832,None,279.06,0,0,40,Clouds,scattered clouds,05-10-2012 23:00
+1231,None,278.81,0,0,90,Clouds,overcast clouds,06-10-2012 00:00
+718,None,278.55,0,0,90,Clouds,overcast clouds,06-10-2012 01:00
+545,None,278.59,0,0,90,Clouds,overcast clouds,06-10-2012 02:00
+411,None,276.99,0,0,75,Clouds,broken clouds,06-10-2012 04:00
+688,None,276.35,0,0,20,Clouds,few clouds,06-10-2012 05:00
+1352,None,275.4,0,0,1,Clear,sky is clear,06-10-2012 06:00
+2072,None,275.17,0,0,1,Clear,sky is clear,06-10-2012 07:00
+3342,None,274.99,0,0,1,Clear,sky is clear,06-10-2012 08:00
+4258,None,275.09,0,0,40,Clouds,scattered clouds,06-10-2012 09:00
+4861,None,276.88,0,0,20,Clouds,few clouds,06-10-2012 10:00
+5191,None,278.04,0,0,20,Clouds,few clouds,06-10-2012 11:00
+5669,None,279.08,0,0,40,Clouds,scattered clouds,06-10-2012 12:00
+5074,None,280.12,0,0,75,Clouds,broken clouds,06-10-2012 13:00
+5025,None,280.25,0,0,75,Clouds,broken clouds,06-10-2012 14:00
+5153,None,280,0,0,75,Clouds,broken clouds,06-10-2012 15:00
+5024,None,279.06,0,0,90,Clouds,overcast clouds,06-10-2012 16:00
+4779,None,278.91,0,0,90,Clouds,overcast clouds,06-10-2012 17:00
+4362,None,278.39,0,0,90,Clouds,overcast clouds,06-10-2012 18:00
+3860,None,278.16,0,0,90,Clouds,overcast clouds,06-10-2012 19:00
